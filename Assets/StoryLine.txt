@@ -1,0 +1,14 @@
+Queen of a kingdom Asguard was caught by the army of Thanos. Now Thanos has given a
+chance to Thor to save the Queen. Now Thor has gone to save the Queen. Thanos has
+given choice to Thor :
+
+choice 1:- Want to save
+choice 2:- want to quit
+
+if choice 1
+
+Now Thanos has made some question answer round for Thor. If Thor will give all answer
+correct than  Thanos will let the Queen go with Thor otherwise he will kill her. Thor
+has no other choice so he accepted his condition and agreed to play.
+
+At first Thor has given choice to give answer of 
